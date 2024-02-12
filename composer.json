@@ -1,0 +1,14 @@
+{
+    "name": "tatwerat/wp-customers-portfolio",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CustomersPortfolio\\": "includes"
+        }
+    },
+    "config": {
+        "platform": {
+            "php": "7.3"
+        }
+    }
+}

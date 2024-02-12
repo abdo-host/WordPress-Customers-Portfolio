@@ -1,0 +1,22 @@
+{
+  "name": "customers-portfolio",
+  "version": "1.0.0",
+  "description": "WordPress plugin for building your customer portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdo-host/WordPress-Customers-Portfolio.git"
+  },
+  "keywords": [
+    "WordPress"
+  ],
+  "author": "Tatwerat Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdo-host/WordPress-Customers-Portfolio/issues"
+  },
+  "homepage": "https://github.com/abdo-host/WordPress-Customers-Portfolio#readme"
+}
