@@ -2,14 +2,14 @@
 
 /*
  * @link              #
- * @since             1.0.0
+ * @since             1.1.0
  * @package           Customers Portfolio
  *
  * @wordpress-plugin
  * Plugin Name:       Customers Portfolio
  * Plugin URI:        https://github.com/abdo-host/WordPress-Customers-Portfolio.git
  * Description:       WordPress plugin for building your customer portfolio
- * Version:           1.0.0
+ * Version:           1.1.0
  * Author:            Tatwerat Team
  * Author URI:        https://github.com/abdo-host
  * License:           General Public License 2.0
@@ -36,7 +36,7 @@ if ( defined( 'WP_DEBUG' ) and WP_DEBUG == true ) {
 	error_reporting( E_ALL );
 }
 
-define( 'Customers_Portfolio_VERSION', '1.0.0' );
+define( 'Customers_Portfolio_VERSION', '1.1.0' );
 define( 'Customers_Portfolio_URL', plugins_url( basename( plugin_dir_path( __FILE__ ) ), basename( __FILE__ ) ) );
 define( 'Customers_Portfolio_FILE', __FILE__ );
 define( 'Customers_Portfolio_PATH', plugin_dir_path( __FILE__ ) );

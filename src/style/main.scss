@@ -156,3 +156,24 @@
     }
   }
 }
+
+[dir="rtl"] {
+  #customers-portfolio-root {
+    direction: rtl;
+  }
+
+  #customers-portfolio-root .customers-portfolio-header .customers-portfolio-header-form {
+    margin-left: 0px;
+    margin-right: auto;
+  }
+
+  #customers-portfolio-root .customers-portfolio-header .customers-portfolio-header-form .customers-portfolio-select {
+    text-align: right;
+    padding: 0.2em 10px 0.05em 3.5em !important;
+    background-position: calc(10px) calc(1em + 2px), calc(15px) calc(1em + 2px), calc(2em) 0.5em !important;
+
+    &:focus {
+      background-position: calc(15px) 1em, calc(10px) 1em, calc(2.0em) 0.5em !important;
+    }
+  }
+}

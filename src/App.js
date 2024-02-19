@@ -4,8 +4,6 @@ const Strings = customers_portfolio_scripts_object;
 
 const App = () => {
 
-    console.log('Strings.customers_portfolio_list', Strings.customers_portfolio_list)
-
     const [filters, setFilters] = useState({
         company: '',
         category: '',
@@ -22,7 +20,6 @@ const App = () => {
     const filteredItems = Strings.customers_portfolio_list.filter(item => {
         const company_value = new RegExp(filters.company, "i");
         const companyMatch = !filters.company || item.name.match(company_value);
-        console.log('filters.category', filters.category)
         const categoryMatch = !filters.category || (item.category?.term_id == filters.category);
         const countryMatch = !filters.country || (item.country?.term_id == filters.country);
         return companyMatch && countryMatch && categoryMatch;

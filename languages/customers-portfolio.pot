@@ -1,0 +1,269 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Customers Portfolio\n"
+"POT-Creation-Date: 2024-02-19 17:58+0200\n"
+"PO-Revision-Date: 2024-02-18 23:25+0200\n"
+"Last-Translator: Abdo Hamoud <abdo.host@gmail.com>\n"
+"Language-Team: Abdo Hamoud <abdo.host@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: customers-portfolio.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+
+#: customers-portfolio.php:104
+msgid "Loading ..."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: customers-portfolio.php:118
+msgid "Customers Portfolio"
+msgstr ""
+
+#: customers-portfolio.php:119
+msgid "Find customer ..."
+msgstr ""
+
+#: customers-portfolio.php:120 includes/Customer_Portfolio_PostType.php:94
+msgid "All Countries"
+msgstr ""
+
+#: customers-portfolio.php:121 includes/Customer_Portfolio_PostType.php:57
+msgid "All Categories"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:16
+msgctxt "Post Type General Name"
+msgid "Customers"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:17
+msgctxt "Post Type Singular Nam"
+msgid "Customer"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:18
+msgid "Customers"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:19
+msgid "All Customers"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:20
+msgid "Add New Customer"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:21
+msgid "Add New"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:22
+msgid "Edit Customer"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:23
+msgid "Update Customer"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:24
+msgid "View Customer"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:25
+msgid "Search Customers"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:26
+#: includes/Customer_Portfolio_PostType.php:70
+#: includes/Customer_Portfolio_PostType.php:107
+msgid "Not Found"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:27
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:31
+msgid "Customer"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:32
+msgid "Customers custom post type"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:54
+msgctxt "Taxonomy General Name"
+msgid "Category"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:55
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:56
+msgid "Category"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:58
+msgid "Parent Category"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:59
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:60
+msgid "New Category Name"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:61
+msgid "Add New Category"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:62
+msgid "Edit Category"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:63
+msgid "Update Category"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:64
+msgid "View Category"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:65
+msgid "Separate categories with commas"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:66
+msgid "Add or remove categories"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:67
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:68
+msgid "Popular Category"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:69
+msgid "Search Category"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:71
+msgid "No categories"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:72
+msgid "Category list"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:73
+msgid "Category list navigation"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:91
+msgctxt "Taxonomy General Name"
+msgid "Country"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:92
+msgctxt "Taxonomy Singular Name"
+msgid "Country"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:93
+msgid "Country"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:95
+msgid "Parent Country"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:96
+msgid "Parent Country:"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:97
+msgid "New Country Name"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:98
+msgid "Add New Country"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:99
+msgid "Edit Country"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:100
+msgid "Update Country"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:101
+msgid "View Country"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:102
+msgid "Separate countries with commas"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:103
+msgid "Add or remove countries"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:104
+msgid "Choose from the most used countries"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:105
+msgid "Popular Country"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:106
+msgid "Search Country"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:108
+msgid "No countries"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:109
+msgid "Country list"
+msgstr ""
+
+#: includes/Customer_Portfolio_PostType.php:110
+msgid "Country list navigation"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/abdo-host/WordPress-Customers-Portfolio.git"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress plugin for building your customer portfolio"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tatwerat Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/abdo-host"
+msgstr ""
